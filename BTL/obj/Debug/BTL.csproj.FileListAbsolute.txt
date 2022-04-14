@@ -1,0 +1,101 @@
+D:\Documents\Documents\Lập trình trực quan\code\BTL\bin\Debug\BTL.exe.config
+D:\Documents\Documents\Lập trình trực quan\code\BTL\bin\Debug\BTL.exe
+D:\Documents\Documents\Lập trình trực quan\code\BTL\bin\Debug\BTL.pdb
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.Form1.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.exe
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.pdb
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.ThaoTac.frmLogin.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.ThaoTac.frmPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.ThaoTac.frmDatVe.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.QuanLy.frmLichChieuPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.QuanLy.frmPhongChieuPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.QuanLy.frmRapChieuPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.ThaoTac.frmTrangChu.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.QuanLy.frmThongTinPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.QuanLy.frmHangSX.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.QuanLy.frmLoaiPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.QuanLy.frmNuocSX.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.QuanLy.frmThongTinNV.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.QuanLy.frmLuongNV.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.ThongKe.DoanhThu.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.ThongKe.DoanhThuTheoPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.ThaoTac.frmNhapLaiMK.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\BTL.ThaoTac.frmSendCode.resources
+D:\Documents\Documents\Lập trình trực quan\code\BTL\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\BTL\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\BTL\obj\Debug\AxInterop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\bin\Debug\BTL.exe.config
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\bin\Debug\BTL.exe
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\bin\Debug\BTL.pdb
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\AxInterop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.Form1.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmHangSX.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmLichChieuPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmLuongNV.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmPhongChieuPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmRapChieuPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmThongTinNV.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmThongTinPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmLoaiPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmNuocSX.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.ThaoTac.frmDatVe.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.ThaoTac.frmLogin.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.ThaoTac.frmNhapLaiMK.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.ThaoTac.frmPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.ThaoTac.frmSendCode.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.ThaoTac.frmTrangChu.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.ThongKe.DoanhThu.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.ThongKe.DoanhThuTheoPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.exe
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.pdb
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.frmDoAn.resources
+D:\Documents\Documents\Lập trình trực quan\code\test\BTL\obj\Debug\BTL.QuanLy.frmHDDA.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\bin\Debug\BTL.exe.config
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\bin\Debug\BTL.exe
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\bin\Debug\BTL.pdb
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\AxInterop.WMPLib.dll
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.Form1.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.frmDoAn.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmHangSX.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmHDDA.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmLichChieuPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmLoaiPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmLuongNV.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmNuocSX.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmPhongChieuPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmRapChieuPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmThongTinNV.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.QuanLy.frmThongTinPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.ThaoTac.frmDatVe.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.ThaoTac.frmLogin.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.ThaoTac.frmNhapLaiMK.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.ThaoTac.frmPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.ThaoTac.frmSendCode.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.ThaoTac.frmTrangChu.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.ThongKe.DoanhThu.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.ThongKe.DoanhThuTheoPhim.resources
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.exe
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.pdb
+D:\Documents\Documents\Lập trình trực quan\code\Bài tập lớn c#\BTL\obj\Debug\BTL.ThongKe.DoanhThuNam.resources
